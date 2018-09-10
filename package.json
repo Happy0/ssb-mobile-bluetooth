@@ -13,6 +13,6 @@
   "author": "Gordon Martin",
   "license": "MIT",
   "dependencies": {
-    "ssb-mobile-bluetooth-manager": "Happy0/ssb-mobile-bluetooth-manager#43f0d05d1e21ed463ce91b3bea2e5fc562bcdf29"
+    "ssb-mobile-bluetooth-manager": "1.0.0"
   }
 }
