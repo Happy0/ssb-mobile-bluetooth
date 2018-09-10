@@ -1,0 +1,18 @@
+{
+  "name": "ssb-mobile-bluetooth",
+  "version": "1.0.0",
+  "description": "A scuttlebot plugin for managing bluetooth connections using a react native bridge (using ssb-mobile-bluetooth-manager) and a multiserve plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/happy0/ssb-mobile-bluetooth"
+  },
+  "author": "Gordon Martin",
+  "license": "MIT",
+  "dependencies": {
+    "ssb-mobile-bluetooth-manager": "Happy0/ssb-mobile-bluetooth-manager#43f0d05d1e21ed463ce91b3bea2e5fc562bcdf29"
+  }
+}
