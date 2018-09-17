@@ -13,7 +13,11 @@
   "author": "Gordon Martin",
   "license": "MIT",
   "dependencies": {
-    "ssb-mobile-bluetooth-manager": "1.0.0",
+    "ssb-mobile-bluetooth-manager": "happy0/ssb-mobile-bluetooth-manager#d552862f2e972f9a7382a20dcfb96e105253e1b6",
     "multiserver-bluetooth": "1.0.0"
+  },
+  "react-native": {
+    "os": "@staltz/react-native-os",
+    "rn-viewpager": "@staltz/rn-viewpager"
   }
 }
