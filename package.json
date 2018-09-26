@@ -1,6 +1,6 @@
 {
   "name": "ssb-mobile-bluetooth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A scuttlebot plugin for managing bluetooth connections using a react native bridge (using ssb-mobile-bluetooth-manager) and a multiserve plugin.",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "author": "Gordon Martin",
   "license": "MIT",
   "dependencies": {
-    "ssb-mobile-bluetooth-manager": "happy0/ssb-mobile-bluetooth-manager#d552862f2e972f9a7382a20dcfb96e105253e1b6",
-    "multiserver-bluetooth": "1.0.0"
+    "ssb-mobile-bluetooth-manager": "1.0.2",
+    "multiserver-bluetooth": "1.0.2"
   },
   "react-native": {
     "os": "@staltz/react-native-os",
